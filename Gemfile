@@ -1,7 +1,8 @@
 source "https://rubygems.org"
 
-gem "sinatra"
-gem "hashie", '1.4.4'
+gem "sinatra", '1.4.4'
+gem "hashie"
+gem "awesome_print"
 
 group :development do
   gem "pry"
